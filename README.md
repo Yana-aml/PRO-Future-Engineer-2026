@@ -2,12 +2,13 @@
 ### *Introducing Polytechnic College of La Union (PCLU) Future Engineers Team B, smart ideas on future machines*
 
 # Table of Contents
-- [1. Introduction](#1introduction)
-    - [1.1 About Us](#1.1AboutUs)
-    - [1.2 Team Coordination](#1.2TeamCoordination)
-    - [1.3 Participation Motives](#1.3ParticipationMotives)
-- [2. About the Robot Car](#2.AbouttheRobotCar)
-    - [2.1 Idea of the Robot Car](#2.1IdeaoftheRobotCar)
+- [1. Introduction](#1-Introduction)
+    - [1.1 About Us](#11-About-Us)
+    - [1.2 Team Coordination](#12-Team-Coordination)
+    - [1.3 Participation Motives](#13-Participation-Motives)
+- [2. About the Robot Car](#2.About-the-Robot-Car)
+    - [2.1 Idea of the Robot Car](#2.1-Ideaof-the-Robot-Car)
+    - [2.2 Prototype](#2.2-Prototype)
 
  # 1. Introduction
 
@@ -41,7 +42,7 @@
  ## 4.2 Sensors
  ## 4.3 Camera
 
- # Managing Challenges
+ # 5. Managing Challenges
  ## 5.1 Open Challenge
  ## 5.2 Obstacle Challenge
  ## 5.3 Parking
